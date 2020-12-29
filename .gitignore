@@ -14,6 +14,7 @@
 
 # production
 /build
+/sensi
 
 # misc
 .DS_Store
